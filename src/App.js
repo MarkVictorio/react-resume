@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <h1> HELLO WORLD</h1>
+      
     </div>
   );
 }
