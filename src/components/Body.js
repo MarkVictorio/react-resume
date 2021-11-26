@@ -7,8 +7,8 @@ function Body() {
             <div className="column my-6 py-6">
                 <section className="section">
                     <h1 className="title has-text-black is-size-2"> I am <span className="has-text-primary">Mark Vincent Victorio</span></h1>
-                    <p className = "mb-5"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis veritatis doloribus quibusdam placeat aliquam, eaque rem architecto? Tempora id facilis, quod minus perspiciatis mollitia excepturi. Ducimus modi nam quo minima tenetur praesentium aliquam corrupti, cumque doloremque amet? Asperiores, hic facere, delectus laboriosam eius tenetur aut, vel accusamus veritatis officia officiis.</p>
-                    <button className="button is-primary mr-5">Contact</button>
+                    <p className = "mb-5">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis veritatis doloribus quibusdam placeat aliquam, eaque rem architecto? Tempora id facilis, quod minus perspiciatis mollitia excepturi. Ducimus modi nam quo minima tenetur praesentium aliquam corrupti, cumque doloremque amet? Asperiores, hic facere, delectus laboriosam eius tenetur aut, vel accusamus veritatis officia officiis.</p>
+                    <button className="button is-primary mr-1">Contact</button>
                     <a className="button is-primary mx-5" href = "https://github.com/MarkVictorio?tab=repositories">Portfolio</a>
                 </section>
             </div>
@@ -19,4 +19,4 @@ function Body() {
     )
 }
 
-export default Body
+export default Body;

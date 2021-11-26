@@ -4,3 +4,7 @@
 body{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.navbar-item{
+    max-height: 70px;
+}
