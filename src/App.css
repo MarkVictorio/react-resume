@@ -5,6 +5,9 @@ body{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+html { scroll-behavior: smooth;
+} 
 .navbar-item{
     max-height: 70px;
 }
+

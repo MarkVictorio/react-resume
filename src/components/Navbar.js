@@ -24,7 +24,7 @@ function Navbar() {
                   Home
                 </a>
 
-                <a className="navbar-item">
+                <a className="navbar-item" href="#about-me">
                   About
                 </a>
 

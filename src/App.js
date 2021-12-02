@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <Navbar />
       <Body />
-      <div className="has-background-primary p-6">
+      <div className="has-background-primary p-6" id="about-me">
         <h1 className="title has-text-centered has-text-white">About Me</h1>
         <Resume />
       </div>
