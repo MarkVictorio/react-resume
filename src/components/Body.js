@@ -13,7 +13,7 @@ function Body() {
                 </section>
             </div>
             <div className="column is-three-fifths has-text-centered">
-                <img src="/assets/Background.png" className = "is-3by2 px-6"/>                
+                <img src="/assets/Background.png" alt='background' className = "is-3by2 px-6"/>                
             </div>
         </div>
     )

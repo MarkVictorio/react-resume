@@ -20,7 +20,7 @@ function Navbar() {
 
             <div id="navbarBasicExample"className={`navbar-menu ${isActive ? "is-active" : ""}`}>
               <div className="navbar-start">
-                <a className="navbar-item">
+                <a className="navbar-item" href="/">
                   Home
                 </a>
 

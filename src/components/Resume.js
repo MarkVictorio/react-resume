@@ -6,7 +6,7 @@ function Resume() {
     return (
         <div className="has-text-centered" id ='about-me'>
             <figure className="image is-128x128 is-inline-block">
-                <img src="/assets/profileimage.jpg" className = "is-rounded"/>
+                <img src="/assets/profileimage.jpg" alt='my-face' className = "is-rounded"/>
             </figure>
             <h1 className = "title is-size-4 has-text-white mb-5">Name: Mark Vincent M. Victorio</h1>
 
